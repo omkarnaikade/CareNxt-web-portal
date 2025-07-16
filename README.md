@@ -29,4 +29,4 @@ Microsoft Word, Excel, Jira, GitHub, Balsamiq, draw.io.etc
 
 **Omkar Naikade**  
 Business Analyst | 2+ Years Experience  
-📧 onaikade@gmail.com
+ ominaikade01@gmail.com
